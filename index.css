@@ -463,6 +463,7 @@ display: none;
     -webkit-user-select: none;
     touch-action: manipulation;
     width: auto;
+    margin-top: 15px;
   }
   
   .button-40:hover {
